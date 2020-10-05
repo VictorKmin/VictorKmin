@@ -30,6 +30,6 @@ Hi, I'm <b>Viktor Kmin</b>, a <b>Full-Stack Developer & programming teacher</b> 
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=VictorKmin&show_icons=true" alt="myGitStats" />
   
-<img align="right" alt="GIF" src="https://hackernoon.com/images/f2px36fy.gif" width="400" height="300" />
+<img align="right" alt="GIF" src="https://hackernoon.com/images/f2px36fy.gif" width="320" height="240" />
 
 
