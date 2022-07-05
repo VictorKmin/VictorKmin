@@ -33,13 +33,13 @@ Hi, I'm <b>Viktor Kmin</b>, a <b>Full-Stack Developer & programming teacher</b> 
 **Activity for the last week :**
 
 <div> 
-  <img align="right" width="370px" src="https://github-readme-stats.vercel.app/api?username=feden2906&show_icons=true" alt="myGitStats" > 
+  <img align="right" width="370px" src="https://github-readme-stats.vercel.app/api?username=VictorKmin&show_icons=true" alt="myGitStats" > 
 </div>
 
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript                       ████████████░░░░░░░░░░░░░   48.08 %
+JavaScript                       ████████████░░░░░░░░░░░░░   41.08 %
 TypeScript                       █████▒░░░░░░░░░░░░░░░░░░░   20.91 %
 HTML                             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
 JSON                             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
