@@ -27,6 +27,6 @@ Hi, I'm <b>Viktor Kmin</b>, a <b>Full-Stack Developer & programming teacher</b> 
 <code><img height="25px" title="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
 
 <br />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorKmin&theme=github_dark" />
 <p> <img src="https://github-readme-stats.vercel.app/api?username=VictorKmin&show_icons=true" alt="myGitStats" />
 
